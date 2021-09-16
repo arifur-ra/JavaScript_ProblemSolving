@@ -32,4 +32,4 @@
 
 ## Github-Link
 
-- [Problem and Solutions](https://arifur-ra.github.io/MyProject/JavaScript/03_colorFliper/index.html)
+- [Problem and Solutions](https://github.com/arifur-ra/JavaScript_ProblemSolving/tree/main/Probelm-and-Solutions)

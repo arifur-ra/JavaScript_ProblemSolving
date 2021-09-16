@@ -89,4 +89,32 @@ console.log('The number of vowels in sentence:',countVowels('I Love Myself'))
 /**
  * Problem 6
  * - How would you extract the duplicate numbers in a array ??
+ *  
  */
+
+const numbers = [1,4,5,5,6,7,6,8,9,10,4,11]
+
+
+const duplicates = numbers.filter((value, index, array)=>{
+    return array.indexOf(value) !== index ;
+
+})
+
+console.log('Duplicates number',duplicates)
+
+
+/**
+ * Problem 6
+ * - How would you extract the duplicate numbers in a array ??
+ *  
+ */
+
+ const uniqueNumbers = [1,4,5,5,6,7,6,8,9,10,4,11]
+
+
+ const uniques = uniqueNumbers.filter((value, index, array)=>{
+     return array.indexOf(value) === index ;
+ 
+ })
+ 
+ console.log('Uniques number',uniques)
