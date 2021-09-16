@@ -1,4 +1,4 @@
-# Some JavaScript Problem and their Solutions.
+# Some JavaScript Problem and their Solutions using Array Method
 
 - JavaScript
 
@@ -32,10 +32,4 @@
 
 ## Github-Link
 
-- [Random Number](https://arifur-ra.github.io/MyProject/JavaScript/03_colorFliper/index.html)
-- [Order roll numbers of students](https://arifur-ra.github.io/MyProject/JavaScript/04_counter/index.html)
-- [Order names of students](https://arifur-ra.github.io/MyProject/JavaScript/05_reviews/index.html)
-- [Leap year or not](https://arifur-ra.github.io/MyProject/JavaScript/06_navbar/index.html)
-- [How many vowels in a sentence](https://arifur-ra.github.io/MyProject/JavaScript/07_sidebar/index.html)
-- [Extract the duplicate numbers in a array](https://arifur-ra.github.io/MyProject/JavaScript/08_modal/index.html)
-- [Extract the unique numbers in a array](https://arifur-ra.github.io/MyProject/JavaScript/09_questions-project/index.html)
+- [Problem and Solutions](https://arifur-ra.github.io/MyProject/JavaScript/03_colorFliper/index.html)
